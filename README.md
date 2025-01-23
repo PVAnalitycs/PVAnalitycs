@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I'm Paula Vargas, a biologist 🧬 transitioning into the exciting world of data analysis 📊. With a background in biological research and a growing expertise in data science, I’m passionate about exploring insights hidden in data and applying them to solve real-world problems. 🌟
 
 ## 🌱 About Me
@@ -30,4 +29,3 @@ I have a good foundation in analysis in R and I’m currently learning advanced 
 ## 📫 Connect with Me:
 - [LinkedIn](www.linkedin.com/in/paula-vargas-62a9b9154)
 - [Email](mailto:paulamarielavargasjimenez@gmail.com)
--->
